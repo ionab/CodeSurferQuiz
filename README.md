@@ -1,4 +1,4 @@
-# MDX Deck + Code Surfer template
+# A family quiz built with CodeSurfer
 
 This project was generated with the `npm init code-surfer-deck` command.
 
